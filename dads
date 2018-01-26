@@ -1,0 +1,155 @@
+[33mcommit 8888f1afb4ee3e3686f9b83720672e7950750219[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 22:38:34 2017 +0800
+
+    修改 README.md 文件
+
+[33mcommit d1682c74a8417a2cc2e8cf3a38e77c807e8fd90d[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 22:19:09 2017 +0800
+
+    改变图片标题、描述
+
+[33mcommit 99fd6c275542843defb52a5ab5b24f0c1531b85e[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:57:46 2017 +0800
+
+    改变assets
+
+[33mcommit 45997dcde0805441176dfecfed9e1cff6a2509f0[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:53:52 2017 +0800
+
+    assets
+
+[33mcommit eecb50437af3830f282b16b11f4eb32b8ef7a367[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:49:39 2017 +0800
+
+    图片路径更改
+
+[33mcommit 6e40990ebd96a033b51befa6982cb116cedcbf49[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:47:43 2017 +0800
+
+    改变src的script脚本路径
+
+[33mcommit 874b5c74731fedb8ecf05a97e9ebc05d2dfee4bb[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:44:29 2017 +0800
+
+    改变图片的路径
+
+[33mcommit fdb4fca7cf90d88955a867747f8ee274c4095c9c[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:38:58 2017 +0800
+
+    11
+
+[33mcommit e68cad4dd62674050894b59af3320e5a2238d24e[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:36:31 2017 +0800
+
+    10
+
+[33mcommit 130aabd04e3aa8d320614418608092798e4a8237[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:24:45 2017 +0800
+
+    图片路径
+
+[33mcommit 544ad999a3a0fae1ae9515018a219450f04aa95a[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:16:46 2017 +0800
+
+    改变路径
+
+[33mcommit 56d770acacd3987c4791344f56ff4250c3ebf28b[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:14:44 2017 +0800
+
+    改变路径
+
+[33mcommit 5e48cf5411b0d18767964da1e56cfab2b47ca17c[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 21:00:15 2017 +0800
+
+    图片画廊 by react
+
+[33mcommit 812109038402f967eeee47aa0a0d49bdeb992a4c[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 20:22:20 2017 +0800
+
+    React 制作 web 图片画廊
+
+[33mcommit 39ac0a9e26b09b619a814941d43f2cd285268752[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 10:50:09 2017 +0800
+
+    控制组件控制图片翻转
+
+[33mcommit e4fc530b2e618fc7620cf76235af5ef67946c9c8[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Tue Aug 22 10:18:01 2017 +0800
+
+    控制组件样式
+
+[33mcommit e314cf3b5b90baa0c2ffc744e5fa2904722f11d5[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Mon Aug 21 22:25:30 2017 +0800
+
+    移动、旋转 动画
+
+[33mcommit 91dbcb1b9f9a74444ace79827e177340fed30c06[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Mon Aug 21 21:53:29 2017 +0800
+
+    图片点击移到中间
+
+[33mcommit f253e6e0cb9bc4c5f136ff7a86d77453e7faa736[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Mon Aug 21 09:20:31 2017 +0800
+
+    中央图片点击翻转
+
+[33mcommit ac0bcc64f8d2d636c2837d58502570afa3ff505c[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Mon Aug 21 02:19:50 2017 +0800
+
+    图片随机旋转一定角度
+
+[33mcommit 7354620bc1a084f522827130d30538a41de29b3a[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Mon Aug 21 01:30:22 2017 +0800
+
+    图片随机排列，改用 es6 语法
+
+[33mcommit 06441d195a4c1b4cbac215ac3ab079280efdc4b6[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Mon Aug 21 01:13:05 2017 +0800
+
+    图片随机排列
+
+[33mcommit ca3c931d80f3fc047108365ef9fb6debe883e4af[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Sun Aug 20 18:47:33 2017 +0800
+
+    画廊舞台搭建
+
+[33mcommit a32159a79c0fb7fea4c212eda3485bf5dc959fe0[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Sun Aug 20 16:26:14 2017 +0800
+
+    基于 yeoman 的 react-webpack 环境搭建
+
+[33mcommit 4f38b02c84ee42bb98216f5a4165d591fbdf31d4[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Sun Aug 20 16:24:35 2017 +0800
+
+    项目环境搭建
+
+[33mcommit 8848b6a5c7db6755c0e1aa05a48403a5786d6b77[m
+Author: yuantongkang <yuantongkang@gmail.com>
+Date:   Sun Aug 20 11:21:22 2017 +0800
+
+    Initial commit

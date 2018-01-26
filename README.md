@@ -33,7 +33,6 @@ yo react-webpack
 
 ### 项目启动
 ```
-git clone git@github.com:18810666595/gallery-by-react.git
 
 cd gallery-by-react
 
